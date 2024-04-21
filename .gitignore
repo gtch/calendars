@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+
+# IntelliJ IDEA folder
+.idea
+
+# Node dependencies
+node_modules/
